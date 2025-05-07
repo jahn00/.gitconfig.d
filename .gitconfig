@@ -1,10 +1,10 @@
 [user]
-	email = ahn.jeff@gmail.com
-	name = Jeff Ahn
+  email = ahn.jeff@gmail.com
+  name = Jeff Ahn
 
 [core]
-	autocrlf = input
-	whitespace = cr-at-eol
+  autocrlf = input
+  whitespace = cr-at-eol
   editor = vim
 
 [alias]
